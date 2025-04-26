@@ -61,7 +61,7 @@ An educational, large‐scale factory simulation developed for ECE 651 (Duke Uni
 
 - **Server**  
   ```bash
-  xxxx
+  ./gradlew run --args="<port>"
   ```
 
 ## 📝 Development Notes
