@@ -67,4 +67,4 @@ An educational, large‐scale factory simulation developed for ECE 651 (Duke Uni
 ## 📝 Development Notes
 
 Design sketches, task plans, and implementation notes can be found in our shared Google Doc:  
-[Development Notes](https://docs.google.com/document/d/1wrDHeLhQa1QFEoR7M-aTM2SpQoXwXDGJH6GcnYm5E4o/edit?tab=t.nidgft29hm4b)
+[Development Notes](https://docs.google.com/document/d/1wrDHeLhQa1QFEoR7M-aTM2SpQoXwXDGJH6GcnYm5E4o/edit?tab=t.ln1o6ixfv427)
