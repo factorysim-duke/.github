@@ -1,9 +1,10 @@
 # FactorySIM
 
-An educational, large‐scale factory simulation developed for ECE 651 (Duke University) Final Project. This multi‐module system models discrete‐time “demand‐pull” factory operations, supports both a command-line interface and a LibGDX-based graphical UI, and incorporates advanced features such as storage buildings, configurable policies, and networked server control.
+An educational, large‐scale factory simulation developed for ECE 651 (Duke University) Final Project. This multi‐module system models discrete‐time "demand‐pull" factory operations, supports both a command-line interface and a LibGDX-based graphical UI, and incorporates advanced features such as storage buildings, configurable policies, and networked server control.
 
 <div align="center">
-  <img src="front-page.png" alt="FactorySIM Front Page" width="50%">
+  <img src="assets/front-page.png" alt="FactorySIM Front Page" width="45%">
+  <img src="assets/demo.gif" alt="FactorySIM Demo" width="35%">
 </div>
 
 ---

@@ -3,7 +3,8 @@
 An educational, large-scale factory simulation built for Duke ECE 651 Final Project.
 
 <div align="center">
-  <img src="front-page.png" alt="FactorySIM Front Page" width="50%">
+  <img src="../assets/front-page.png" alt="FactorySIM Front Page" width="45%">
+  <img src="../assets/demo.gif" alt="FactorySIM Demo" width="35%">
 </div>
 
 ---
