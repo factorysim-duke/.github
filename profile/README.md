@@ -13,5 +13,4 @@ An educational, large-scale factory simulation built for Duke ECE 651 Final Proj
   - `factorysim/` — core simulation logic  
   - `factorysim-gui/` — LibGDX GUI  
   - `factorysim-server/` — optional networked control  
-  -  
 - **Tech stack**: Java · LibGDX · Gradle · GSON · JUnit
