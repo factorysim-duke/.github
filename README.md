@@ -2,8 +2,7 @@
 
 An educational, large‐scale factory simulation developed for ECE 651 (Duke University) Final Project. This multi‐module system models discrete‐time “demand‐pull” factory operations, supports both a command-line interface and a LibGDX-based graphical UI, and incorporates advanced features such as storage buildings, configurable policies, and networked server control.
 
-![alt text](logo.png)
-
+![FactorySIM Front Page](front-page.png)
 ---
 
 ## 📁 Repository Structure
